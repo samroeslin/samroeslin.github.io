@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Joint Research Centre (JRC) - European Commission</a>. Ispra, Italy
+subtitle: Joint Research Centre (JRC) - European Commission. Ispra, Italy
 
 profile:
   align: right
