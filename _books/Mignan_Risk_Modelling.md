@@ -8,5 +8,3 @@ categories: Risk Modelling
 buy_link: https://www.cambridge.org/highereducation/books/introduction-to-catastrophe-risk-modelling/A3A5B5FB990921422BFEBB07734BF869#overview
 released: 21 November 2024
 ---
-
-
