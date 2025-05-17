@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: # Roeslin_Samuel_CV_English.pdf # you can also use external links here
-description: Quantifying risk, enhancing resilience.
+description: 
 toc:
   sidebar: left
 ---
