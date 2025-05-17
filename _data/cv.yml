@@ -16,28 +16,52 @@
       year: 2022
       description:
         - Civil Engineering
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Master of Engineering
+    - title: Master of Engineering (M. Eng.)
       institution: Regensburg University of Applied Sciences, Regensburg, Germany
       year: 2016
       description:
         - Civil Engineering
-        - Description 2.
+    - title: Bachelor of Engineering (B. Eng.)
+      institution: Karlsruhe University of Applied Sciencess, Karlsruhe, Germany
+      year: 2014
+      description:
+        (3rd year)
+        - Civil Engineering
+    - title: Bachelor of Science (B. Sc.)
+      institution: University of Applied Sciences Northwestern Switzerland, Muttenz, Switzerland
+      year: 2014
+      description:
+        (2nd year)
+        - Civil Engineering
+    - title: Professional bachelor's degree (Licence Professionnelle)
+      institution: Robert Schuman University Institute of Technology, Illkirch, France
+      year: 2014
+      description:
+        (1st year)
+        - Civil Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Scientific Project Officer
-      institution: Institute for Advanced Study, Princeton University
-      year: 2023 - Present
+    - title: Scientific Project Officer for the Risk Data Hub (RDH)
+      institution: European Commission - Joint Research Centre (JRC)
+      year: Jul 2023 - Present
       description:
         - Computation of disaster risk for Europe using information on hazard, exposure, and vulnerability
         - Collection, harmonisation, and disaggregation of historical disaster loss data in Europe
         - Scientific work and dissemination of information related to the Risk Data Hub (RDH)
+    - title: Analytics specialist
+      institution: Tower Insurance
+      year: Aug 2021 - Mar 2023
+      description:
+        - Extracted and prepared training data for the development of a ML model to predict customer churn.
+        - Maintained, improved, and developed Power BI reports for internal stakeholders. Queried internal databases using Snowflake. Enriched reports with third-party data.
+        - Provided regular and ad-hoc analytical insights and data extracts for the underwriting and pricing team.
+    - title: AI Researcher
+      institution: Beca Group Limited
+      year: Mar 2021 - Jul 2021
+      description:
+        - Developed conversational agents and bespoke interfaces that enhance community engagement across a variety of situations to meet the needs of di erent clients, stakeholders, and communities.
 
 - title: Honors and Awards
   type: time_table
@@ -49,19 +73,15 @@
       items:
         - Scholarship - Otto Helmut und Alice Eckl Foundation
 
-- title: Academic Interests
+- title: Languages
   type: nested_list
   contents:
-    - title: Disaster Risk
+    - title: French
       items:
-        - Description 1.
-        - Description 2.
-    - title: Disaster losses and damages
+        - Native Language
+    - title: English
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - C1 - Full professional proficiency
+    - title: German
+      items:
+        - C1 - Full professional proficiency
