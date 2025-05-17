@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Publications are also listed on Google Scholar.",
+          description: "Publications are also listed on [Google Scholar](https://scholar.google.co.nz/citations?user=OVBqXFEAAAAJ&amp;hl=en).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
