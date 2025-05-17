@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications are also listed on <a href="https://scholar.google.co.nz/citations?user=OVBqXFEAAAAJ&hl=en">Google Scholar</a>.
+description: Publications are also listed on [Google Scholar](https://scholar.google.co.nz/citations?user=OVBqXFEAAAAJ&hl=en).
 
 nav: true
 nav_order: 2
