@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Quantifying risk, enhancing resilience.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
