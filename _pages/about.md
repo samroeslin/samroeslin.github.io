@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>European Commission</p>
-  <p>Joint Research Centre (JRC)</p>
   <p>Ispra, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
