@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some of the main projects I have been working on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -411,7 +411,7 @@ ninja.data = [{
           title: 'Introduction to Catastrophe Risk Modelling',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/Mignan_Risk_Modelling/";
             },},{id: "news-i-have-joined-the-unit-e-1-disaster-risk-management-as-scientific-project-officer-geospatial-data-analysis-for-the-risk-data-hub-i-ll-be-working-on-further-developing-the-drmkc-risk-data-hub",
           title: 'I have joined the unit E.1 Disaster Risk Management as Scientific Project Officer...',
           description: "",
