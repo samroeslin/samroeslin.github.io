@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Scientific project officer <a href='https://drmkc.jrc.ec.europa.eu/risk-data-hub#/'>Risk Data Hub (RDH)</a>.
+subtitle: Scientific project officer - Risk Data Hub (RDH)
 
 profile:
   align: right
