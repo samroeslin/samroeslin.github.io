@@ -6,40 +6,34 @@
     - name: Date of Birth
       value: 28th March 1992
     - name: Languages
-      value: French, English, German
-
+      value: 'French, English, German'
 - title: Education
   type: time_table
   contents:
     - title: Doctor of Philosophy (PhD)
-      institution: The University of Auckland, Auckland, New Zealand
+      institution: 'The University of Auckland, Auckland, New Zealand'
       year: 2022
       description:
         - Civil Engineering
     - title: Master of Engineering (M. Eng.)
-      institution: Regensburg University of Applied Sciences, Regensburg, Germany
+      institution: 'Regensburg University of Applied Sciences, Regensburg, Germany'
       year: 2016
       description:
         - Civil Engineering
     - title: Bachelor of Engineering (B. Eng.)
-      institution: Karlsruhe University of Applied Sciencess, Karlsruhe, Germany
+      institution: 'Karlsruhe University of Applied Sciencess, Karlsruhe, Germany'
       year: 2014
-      description:
-        (3rd year)
-        - Civil Engineering
+      description: (3rd year) - Civil Engineering
     - title: Bachelor of Science (B. Sc.)
-      institution: University of Applied Sciences Northwestern Switzerland, Muttenz, Switzerland
+      institution: >-
+        University of Applied Sciences Northwestern Switzerland, Muttenz,
+        Switzerland
       year: 2014
-      description:
-        (2nd year)
-        - Civil Engineering
+      description: (2nd year) - Civil Engineering
     - title: Professional bachelor's degree (Licence Professionnelle)
-      institution: Robert Schuman University Institute of Technology, Illkirch, France
+      institution: 'Robert Schuman University Institute of Technology, Illkirch, France'
       year: 2014
-      description:
-        (1st year)
-        - Civil Engineering
-
+      description: (1st year) - Civil Engineering
 - title: Experience
   type: time_table
   contents:
@@ -47,32 +41,48 @@
       institution: European Commission - Joint Research Centre (JRC)
       year: Jul 2023 - Present
       description:
-        - Computation of disaster risk for Europe using information on hazard, exposure, and vulnerability
-        - Collection, harmonisation, and disaggregation of historical disaster loss data in Europe
-        - Scientific work and dissemination of information related to the Risk Data Hub (RDH)
+        - >-
+          Computation of disaster risk for Europe using information on hazard,
+          exposure, and vulnerability
+        - >-
+          Collection, harmonisation, and disaggregation of historical disaster
+          loss data in Europe
+        - >-
+          Scientific work and dissemination of information related to the Risk
+          Data Hub (RDH)
     - title: Analytics specialist
       institution: Tower Insurance
       year: Aug 2021 - Mar 2023
       description:
-        - Extracted and prepared training data for the development of a ML model to predict customer churn.
-        - Maintained, improved, and developed Power BI reports for internal stakeholders. Queried internal databases using Snowflake. Enriched reports with third-party data.
-        - Provided regular and ad-hoc analytical insights and data extracts for the underwriting and pricing team.
+        - >-
+          Extracted and prepared training data for the development of a ML model
+          to predict customer churn.
+        - >-
+          Maintained, improved, and developed Power BI reports for internal
+          stakeholders. Queried internal databases using Snowflake. Enriched
+          reports with third-party data.
+        - >-
+          Provided regular and ad-hoc analytical insights and data extracts for
+          the underwriting and pricing team.
     - title: AI Researcher
       institution: Beca Group Limited
       year: Mar 2021 - Jul 2021
       description:
-        - Developed conversational agents and bespoke interfaces that enhance community engagement across a variety of situations to meet the needs of di erent clients, stakeholders, and communities.
-
+        - >-
+          Developed conversational agents and bespoke interfaces that enhance
+          community engagement across a variety of situations to meet the needs
+          of different clients, stakeholders, and communities.
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2021
       items:
-        - 1st place at TakiWaehere - The New Zealand Geospatial Hackathon - Team the AUNTS
+        - >-
+          1st place at TakiWaehere - The New Zealand Geospatial Hackathon - Team
+          the AUNTS
     - year: 2015
       items:
         - Scholarship - Otto Helmut und Alice Eckl Foundation
-
 - title: Languages
   type: nested_list
   contents:
