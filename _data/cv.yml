@@ -1,40 +1,115 @@
 cv:
   name: Samuel Roeslin
-  label: Scientific Project Officer – Geospatial data analysis
+  label: Scientific Project Officer – Risk Data Hub
+  email: sroeslin@hotmail.com
   location: Ispra, Italy
-  summary: Research on disaster risk modelling and the analysis of disaster-related losses and damages, with a particular emphasis on Europe.
+  summary: PhD-qualified risk modelling and analytics professional with experience in European disaster risk assessment, disaster-loss data analytics and insurance analytics. Expertise in probabilistic risk modelling, geospatial analytics, empirical damage and loss modelling, and machine learning.
   social_networks:
+    - network: LinkedIn
+      username: samroeslin
     - network: GitHub
       username: samroeslin
   sections:
     Experience:
-      - company: Joint Research Centre, European Commission
-        position: Scientific Project Officer – Geospatial data analysis
+      - company: European Commission – Joint Research Centre (JRC)
+        position: Scientific Project Officer – Risk Data Hub (RDH)
         location: Ispra, Italy
-        start_date: 2023-07-03
+        start_date: 2023-07
         end_date: present
-        summary: Working in the Risk Data Hub team within Unit E.1 Disaster Risk Management.
+        summary: Directorate E – Societal Resilience and Security, Unit E.1 Disaster Risk Management, Disaster Risk Management Knowledge Centre (DRMKC), Risk Analytics team.
         highlights:
-          - Disaster risk modelling and analysis of disaster-related losses and damages in Europe.
-          - Collaboration with European Commission services and international organisations.
+          - Co-lead scientific and day-to-day delivery of the Risk Data Hub, coordinating priorities and implementation with a multidisciplinary technical team.
+          - Co-developed a probabilistic risk assessment methodology for Europe, integrating hazard, exposure and vulnerability data to estimate Expected Annual Loss.
+          - Provide scientific oversight of historical disaster-loss data collection, harmonisation, analysis and spatial disaggregation.
+          - Led scientific requirements for the redesign of the RDH disaster-loss data architecture.
+          - Contribute to the scientific and technical roadmap, work-package definition, technical specifications and delivery reporting.
+          - Represent the RDH in stakeholder engagement and communicate scientific methods and results to technical, policy and non-technical audiences.
+      - company: Tower Insurance
+        position: Analytics Specialist
+        location: Auckland, New Zealand
+        start_date: 2021-08
+        end_date: 2023-03
+        highlights:
+          - Delivered analytical insights and data extracts to underwriting and pricing teams.
+          - Developed Power BI reporting solutions combining internal Snowflake data with external datasets.
+          - Prepared and engineered training data for a machine-learning customer churn model.
+      - company: Beca Group Limited
+        position: AI Researcher
+        location: Auckland, New Zealand
+        start_date: 2021-03
+        end_date: 2021-07
+        highlights:
+          - Developed conversational AI solutions and bespoke digital interfaces for client projects.
+          - Translated stakeholder and community requirements into applied technology solutions.
     Education:
-      - institution: University of Auckland
-        studyType: PhD
-        end_date: 2022
+      - institution: The University of Auckland
+        location: Auckland, New Zealand
+        studyType: Doctor of Philosophy (PhD)
+        area: Civil Engineering
+        start_date: 2017-01
+        end_date: 2022-09
         highlights:
           - Predicting Seismic Damage and Loss for Residential Buildings using Data Science.
       - institution: Regensburg University of Applied Sciences
-        studyType: Master's degree
-        end_date: 2016
-      - institution: Karlsruhe University of Applied Sciences
-        studyType: Bachelor's degree
-        end_date: 2014
-      - institution: University of Applied Sciences Northwestern Switzerland
-        studyType: Bachelor's degree
-        end_date: 2014
-      - institution: Robert Schuman University Institute of Technology
-        studyType: Licence Professionnelle
-        end_date: 2014
-    Interests:
-      - name: Research
-        keywords: "Disaster risk modelling, disaster losses and damages, seismic damage assessment, data science, machine learning"
+        location: Regensburg, Germany
+        studyType: Master of Engineering (M. Eng.)
+        area: Civil Engineering
+        start_date: 2014-03
+        end_date: 2016-02
+      - institution: Karlsruhe UAS, FHNW & IUT Robert Schuman Illkirch
+        location: Germany, Switzerland, France
+        studyType: Bachelor of Engineering (B. Eng.)
+        area: Civil Engineering
+        start_date: 2010-09
+        end_date: 2014-02
+    Projects:
+      - name: Seismic damage and loss prediction using empirical data
+        summary: Doctoral research conducted at The University of Auckland, New Zealand.
+        start_date: 2017-01
+        end_date: 2021-01
+        highlights:
+          - Integrated catastrophe-risk, geospatial and machine-learning methods to model residential building damage and losses.
+          - Developed a seismic damage prediction model for Mexico City using observations from the 2017 Puebla-Morelos earthquake.
+          - Developed a Christchurch loss prediction model using EQC residential insurance claims, seismic demand, building and geospatial datasets, and Python/scikit-learn.
+    Publications:
+      - title: Disaster losses
+        authors:
+          - Samuel Roeslin
+          - Sandro Salari
+          - Davide Rodomonti
+          - Andrea Sibilia
+          - Christos Bountzouklis
+          - Christina Corbane
+        publisher: European Commission, Joint Research Centre [Dataset]
+        releaseDate: 2025
+        url: https://data.jrc.ec.europa.eu/dataset/0030f450-6f4f-40c5-9390-66bb11dc2442
+      - title: Developing a multi-level European-wide composite indicator to assess vulnerability dynamics across time and space
+        publisher: International Journal of Disaster Risk Reduction
+        releaseDate: 2024
+        url: https://doi.org/10.1016/j.ijdrr.2024.104885
+      - title: Development of a seismic loss prediction model for residential buildings using machine learning – Ōtautahi / Christchurch, New Zealand
+        publisher: Natural Hazards and Earth System Sciences
+        releaseDate: 2023
+        url: https://doi.org/10.5194/nhess-23-1207-2023
+      - title: A machine learning damage prediction model for the 2017 Puebla-Morelos, Mexico, earthquake
+        publisher: Earthquake Spectra
+        releaseDate: 2020
+        url: https://doi.org/10.1177/8755293020936714
+    Skills:
+      - name: Analytics
+        keywords: "Risk assessment, geospatial analytics"
+      - name: Data & Programming
+        keywords: "Python, SQL, machine learning"
+      - name: GIS & BI
+        keywords: "ArcGIS, QGIS, Power BI"
+      - name: Development
+        keywords: "GitLab, GitHub"
+    Languages:
+      - name: French
+        summary: Native language
+      - name: English
+        summary: C1 – Full professional proficiency
+      - name: German
+        summary: C1 – Full professional proficiency
+      - name: Italian
+        summary: A2 – Elementary proficiency
