@@ -13,6 +13,12 @@ nav_order: 3
 
 I am a Scientific Project Officer working on the Risk Data Hub project, a pan-European platform centralising and standardising disaster risk and loss data to support disaster risk management, preparedness and resilience across Europe.
 
+### [Guidance for National Risk Assessment](https://publications.jrc.ec.europa.eu/repository/handle/JRC147700)
+
+I contributed to the 2026 discussion document on Guidance for National Risk Assessment, a methodological update for discussion with EU Member States and UCPM Participating States. It presents methodological options, examples and good practices to support coherent, consistent and evidence-informed national risk assessments for disaster prevention, preparedness and resilience planning.
+
+[Read the publication](https://data.europa.eu/doi/10.2760/6703545).
+
 ## Seismic risk and damage assessment
 
 ### [Seismic loss prediction for residential buildings in Christchurch]({{ '/projects/3_project/' | relative_url }})
