@@ -2,10 +2,16 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected projects in seismic risk, building damage assessment, and geospatial analysis.
+description: Selected projects in disaster risk management, preparedness and resilience, seismic risk, and geospatial analysis.
 nav: true
 nav_order: 3
 ---
+
+## Disaster risk management, preparedness and resilience
+
+### [Risk Data Hub](https://drmkc.jrc.ec.europa.eu/risk-data-hub/)
+
+I am a Scientific Project Officer working on the Risk Data Hub project, a pan-European platform centralising and standardising disaster risk and loss data to support disaster risk management, preparedness and resilience across Europe.
 
 ## Seismic risk and damage assessment
 
