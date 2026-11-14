@@ -6,7 +6,7 @@ subtitle: Risk Data Hub · Joint Research Centre · European Commission
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: samuel-roeslin.jpg
   image_circular: false
   more_info: >
     <p>Disaster Risk Management Knowledge Centre (DRMKC)</p>
