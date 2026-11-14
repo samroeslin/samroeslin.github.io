@@ -2,64 +2,27 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected projects in seismic risk, building damage assessment, and geospatial analysis.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Seismic risk and damage assessment
 
-{% else %}
+### [Seismic loss prediction for residential buildings in Christchurch]({{ '/projects/3_project/' | relative_url }})
 
-<!-- Display projects without categories -->
+Applying data science and machine learning to insurance claims data from the 2010–2011 Canterbury earthquake sequence.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+### [Seismic damage prediction for residential buildings in Mexico City]({{ '/projects/2_project/' | relative_url }})
 
-  <!-- Generate cards for each project -->
+Applying data science and machine learning to building damage data collected following the 2017 Puebla earthquake.
 
-{% if page.horizontal %}
+### [2017 Puebla earthquake]({{ '/projects/1_project/' | relative_url }})
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+A reconnaissance mission in Mexico City following the 19 September 2017 earthquake.
+
+## Geospatial analysis
+
+### [TakiWaehere – New Zealand Geospatial Hackathon]({{ '/projects/4_project/' | relative_url }})
+
+Participation in the geospatial hackathon on 17–18 April 2021.
